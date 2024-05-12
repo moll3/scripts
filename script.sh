@@ -39,7 +39,7 @@ scripts_adg () {
             ;;
         1)
             echo -e '\e[92m已选择：下载最新脚本\e[0m'
-            wget https://raw.githubusercontent.com/lone-wind/scripts/main/adg.sh 
+            wget https://raw.githubusercontent.com/moll3/scripts/main/adg.sh 
             echo -e '\e[91m使用最新脚本将覆盖本地脚本\e[0m'
             sh adg.sh
             ;;
