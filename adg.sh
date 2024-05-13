@@ -2,7 +2,7 @@
 #Build by lone-wind
 #默认容器路径
 default_path () {
-    save_path=/mnt/sda1
+    save_path=/mnt/sdb1
 #    save_path=/mnt/mmcblk2p4
 }
 #功能选择
